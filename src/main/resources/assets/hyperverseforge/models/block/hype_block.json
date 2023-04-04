@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hyperverseforge:blocks/hype_ore_block",
+    "particle": "hyperverseforge:blocks/hype_ore_block"
+  },
+  "render_type": "solid"
+}

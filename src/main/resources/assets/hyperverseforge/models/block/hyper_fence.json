@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "hyperverseforge:blocks/hyper_planks",
+    "particle": "hyperverseforge:blocks/hyper_planks"
+  },
+  "render_type": "solid"
+}

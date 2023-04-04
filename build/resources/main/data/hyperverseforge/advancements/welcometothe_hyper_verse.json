@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "hyperverseforge:hyper_block"
+    },
+    "title": {
+      "translate": "advancements.welcometothe_hyper_verse.title"
+    },
+    "description": {
+      "translate": "advancements.welcometothe_hyper_verse.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "welcometothe_hyper_verse": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "parent": "minecraft:nether/root"
+}

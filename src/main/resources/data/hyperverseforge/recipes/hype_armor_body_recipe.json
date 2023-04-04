@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hyperverseforge:hype"
+    },
+    "2": {
+      "item": "hyperverseforge:hype"
+    },
+    "3": {
+      "item": "hyperverseforge:hype"
+    },
+    "4": {
+      "item": "hyperverseforge:hype"
+    },
+    "5": {
+      "item": "hyperverseforge:hype"
+    },
+    "6": {
+      "item": "hyperverseforge:hype"
+    },
+    "7": {
+      "item": "hyperverseforge:hype"
+    },
+    "8": {
+      "item": "hyperverseforge:hype"
+    }
+  },
+  "result": {
+    "item": "hyperverseforge:hype_armor_chestplate",
+    "count": 1
+  }
+}

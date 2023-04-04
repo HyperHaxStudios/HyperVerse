@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hyperverseforge:block/hyper_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hyperverseforge:block/hyper_wood"
+    },
+    "axis=z": {
+      "model": "hyperverseforge:block/hyper_wood",
+      "x": 90
+    }
+  }
+}

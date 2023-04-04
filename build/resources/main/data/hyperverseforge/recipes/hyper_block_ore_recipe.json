@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hyperverseforge:hyper_block"
+    }
+  ],
+  "result": {
+    "item": "hyperverseforge:hyper",
+    "count": 9
+  }
+}

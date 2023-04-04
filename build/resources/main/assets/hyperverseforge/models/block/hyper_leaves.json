@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hyperverseforge:blocks/hyper_leaves",
+    "particle": "hyperverseforge:blocks/hyper_leaves"
+  }
+}

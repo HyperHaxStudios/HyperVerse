@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hyperverseforge:blocks/hyper_log_top",
+    "up": "hyperverseforge:blocks/hyper_log_top",
+    "north": "hyperverseforge:blocks/hyper_log_side",
+    "east": "hyperverseforge:blocks/hyper_log_side",
+    "south": "hyperverseforge:blocks/hyper_log_side",
+    "west": "hyperverseforge:blocks/hyper_log_side",
+    "particle": "hyperverseforge:blocks/hyper_log_top"
+  },
+  "render_type": "solid"
+}

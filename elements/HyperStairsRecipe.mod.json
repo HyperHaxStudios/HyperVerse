@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HyperPlanks"
+      },
+      {
+        "value": "CUSTOM:HyperPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HyperPlanks"
+      },
+      {
+        "value": "CUSTOM:HyperPlanks"
+      },
+      {
+        "value": "CUSTOM:HyperPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HyperStairs"
+    },
+    "name": "hyper_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hyperverseforge:hyper_planks"
+    }
+  ],
+  "result": {
+    "item": "hyperverseforge:hyper_button",
+    "count": 1
+  }
+}

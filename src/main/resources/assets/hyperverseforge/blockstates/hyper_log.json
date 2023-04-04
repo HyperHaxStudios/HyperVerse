@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hyperverseforge:block/hyper_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hyperverseforge:block/hyper_log"
+    },
+    "axis=z": {
+      "model": "hyperverseforge:block/hyper_log",
+      "x": 90
+    }
+  }
+}

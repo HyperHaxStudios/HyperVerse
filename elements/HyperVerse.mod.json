@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "HyperVerse",
+    "icon": {
+      "value": "CUSTOM:HypeBlock"
+    },
+    "showSearch": true
+  }
+}

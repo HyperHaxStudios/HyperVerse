@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "hyperverseforge:hyper_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "hyperverseforge:hyper_planks"
+    },
+    "3": {
+      "item": "hyperverseforge:hyper_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "hyperverseforge:hyper_planks"
+    }
+  },
+  "result": {
+    "item": "hyperverseforge:hyper_fence",
+    "count": 3
+  }
+}

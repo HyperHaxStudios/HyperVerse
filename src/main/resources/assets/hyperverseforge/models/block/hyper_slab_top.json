@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "hyperverseforge:blocks/hyper_planks",
+    "top": "hyperverseforge:blocks/hyper_planks",
+    "side": "hyperverseforge:blocks/hyper_planks"
+  },
+  "render_type": "solid"
+}

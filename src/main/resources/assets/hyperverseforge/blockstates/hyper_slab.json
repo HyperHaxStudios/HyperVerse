@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hyperverseforge:block/hyper_slab"
+    },
+    "type=top": {
+      "model": "hyperverseforge:block/hyper_slab_top"
+    },
+    "type=double": {
+      "model": "hyperverseforge:block/hyper_slab_full"
+    }
+  }
+}

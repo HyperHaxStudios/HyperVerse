@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "hyperverseforge:hyper"
+    },
+    "2": {
+      "item": "hyperverseforge:hyper"
+    },
+    "3": {
+      "item": "hyperverseforge:hyper"
+    },
+    "5": {
+      "item": "hyperverseforge:hyper"
+    }
+  },
+  "result": {
+    "item": "hyperverseforge:super_hyper_armor_boots",
+    "count": 1
+  }
+}

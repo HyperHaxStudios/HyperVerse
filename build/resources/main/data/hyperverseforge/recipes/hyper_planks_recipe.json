@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:hyper_log"
+    }
+  ],
+  "result": {
+    "item": "hyperverseforge:hyper_planks",
+    "count": 4
+  }
+}

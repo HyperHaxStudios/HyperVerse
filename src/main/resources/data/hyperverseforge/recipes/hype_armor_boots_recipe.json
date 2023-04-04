@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "hyperverseforge:hype"
+    },
+    "2": {
+      "item": "hyperverseforge:hype"
+    },
+    "3": {
+      "item": "hyperverseforge:hype"
+    },
+    "5": {
+      "item": "hyperverseforge:hype"
+    }
+  },
+  "result": {
+    "item": "hyperverseforge:hype_armor_boots",
+    "count": 1
+  }
+}
